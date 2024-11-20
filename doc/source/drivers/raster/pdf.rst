@@ -21,7 +21,7 @@ The driver supports reading georeferencing encoded in either of the 2
 current existing ways : according to the OGC encoding best practice, or
 according to the Adobe Supplement to ISO 32000.
 
-Multipage documents are exposed as subdatasets, one subdataset par page
+Multipage documents are exposed as subdatasets, one subdataset per page
 of the document.
 
 Driver capabilities
